@@ -11,3 +11,5 @@ commit 4, categorias 3
 commit 5, products 1
 
 commit 6, products 2
+
+commit 7, products 3
