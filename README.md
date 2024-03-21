@@ -19,3 +19,5 @@ commit 8, products 4
 commit 9, products 1
 
 commit 10, products 2
+
+commit 11, products 3
